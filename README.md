@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sduchene-208
 - 👀 I’m interested in ... Data Analytics with a particular passion for healthcare analytics
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://sduchene-208.github.io/
 
 <!---
 sduchene-208/sduchene-208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
