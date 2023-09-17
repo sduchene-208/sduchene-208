@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Steven and I can help your data talk
-- 👀 I’m interested in ... Data Analytics with a particular passion for healthcare & pharmaceutical analytics
-- 🌱 I’m currently learning ... Machine Learning and Artificial Intelligence
+- 👋 Hi, I’m Steven and I can help bring your software visions to life!
+- 👀 I’m interested in ... Business analytics, software design, problem solving, and creating value.
+- 🌱 I’m currently learning ... Intelligent user experiences
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://sduchene-208.github.io/
 
